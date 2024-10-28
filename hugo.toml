@@ -1,4 +1,17 @@
-baseURL = 'https://example.org/'
+baseURL = 'https://ashleyha.com/'
 languageCode = 'en-us'
 title = 'aetherial echoes'
-theme = 'cactus'
+
+
+[params]
+  # colortheme = "ananke"  # or any other color theme you prefer
+  description = "I'm Ashley. Here are my life learnings, research, & thoughts"
+  mainSection = "posts"
+  showAllPostsOnHomePage = true
+  postsOnHomePage = 5
+  tagsOverview = true
+  customCSS = ["css/custom.css"]
+
+  [markup]
+  [markup.highlight]
+    style = "dracula"

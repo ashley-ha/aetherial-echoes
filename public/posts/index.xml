@@ -6,7 +6,14 @@
     <description>Recent content in Posts on aetherial echoes</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate></lastBuildDate>
+    <lastBuildDate>Mon, 28 Oct 2024 16:38:13 +0900</lastBuildDate>
     <atom:link href="http://localhost:49522/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Hello! Allow me to introduce myself</title>
+      <link>http://localhost:49522/posts/hello-world/</link>
+      <pubDate>Mon, 28 Oct 2024 16:38:13 +0900</pubDate>
+      <guid>http://localhost:49522/posts/hello-world/</guid>
+      <description>&lt;h2 id=&#34;introduction&#34;&gt;Introduction&lt;/h2&gt;&#xA;&lt;p&gt;Hi! I&amp;rsquo;m Ashley.&lt;/p&gt;&#xA;&lt;p&gt;This is my new blog for various writings, reading lists &amp;amp; general learnings!&lt;/p&gt;</description>
+    </item>
   </channel>
 </rss>
